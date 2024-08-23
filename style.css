@@ -9,8 +9,16 @@
  padding-bottom: 95px
 }
 .topp{
+    position: absolute;
+    text-align:center;
+    color: white;
+    left: 80%;
+    top: 55%;
+}
+.PU{
     position: relative;
     text-align: center;
-    color: rgb(44, 212, 86);
+    color: white;
+    top: 60%;
 }
     
