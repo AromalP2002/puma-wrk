@@ -15,10 +15,21 @@
     left: 80%;
     top: 55%;
 }
-.PU{
-    position: relative;
+
+.bm2t1{
+    position: absolute;
     text-align: center;
     color: white;
-    top: 60%;
-}
+    right: 75%;
+    top: 240%;
+    font-size: 45px;
     
+}
+.bn2t1{
+    position:absolute;
+    text-align: center;
+    color: white;
+    right: 75%;
+    top: 250%;
+    font-size: 20px;
+}
